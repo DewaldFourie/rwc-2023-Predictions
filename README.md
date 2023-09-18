@@ -10,7 +10,7 @@ This is a Prediction App of how the user thinks the play-offs will unfold for th
 <img width="1440" alt="rwcPredictionAppSC" src="https://github.com/DewaldFourie/rwc-2023-predictions/assets/66355688/c731450b-2287-4c47-9f4d-d7a9a85cee21">
 
 
-## [Click here for DEMO](rwc-2023-predictions.vercel.app)
+## [Click here for DEMO](https://rwc-2023-predictions.vercel.app/)
 
 ## Features
 
